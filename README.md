@@ -1,6 +1,6 @@
 ## Android实现沉浸式状态栏及标题栏滑动变色
 
-![效果图](http://pd8746ife.bkt.clouddn.com/demo.gif)
+![效果图](https://github.com/yebook/StatusDemo/blob/master/demo.gif)
 
 
 
